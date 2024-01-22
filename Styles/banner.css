@@ -100,10 +100,34 @@
   font-style: normal;
   font-weight: 700;
   text-transform: uppercase;
+  border: none;
 }
 .img2 {
   margin: -732px 0px 0px 1314px;
   width: 526.83px;
   height: 846.662px;
   display: flex;
+}
+.container {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 148px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.span {
+  color: #f00;
+}
+.btn2 {
+  text-align: center;
+  background: red;
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  width: 151px;
+  height: 53px;
+  border: none;
+  margin: 41px 0px 0px 1819px;
+  padding-top: 2px;
 }
