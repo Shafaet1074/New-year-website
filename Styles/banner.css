@@ -124,7 +124,36 @@
   border: none;
   padding: 32px;
   text-transform: uppercase;
+  text-align: center;
 }
+
+.container {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 148px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.span {
+  color: #f00;
+}
+.btn2 {
+  background-color: #f00;
+  border: none;
+  text-transform: uppercase;
+  padding: 12px 32px;
+  border-radius: 8px;
+  margin: 52px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+
+
+/* Offer */
 .offer {
   width: 80%;
   margin: auto;
@@ -429,26 +458,4 @@ footer {
 
 
 
-.container {
-  text-align: center;
-  font-size: 50px;
-  padding-top: 148px;
-  font-weight: 600;
-  line-height: 20px;
-}
-.span {
-  color: #f00;
-}
-.btn2 {
-  text-align: center;
-  background: red;
-  color: #fff;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 700;
-  width: 151px;
-  height: 53px;
-  border: none;
-  margin: 41px 0px 0px 1819px;
-  padding-top: 2px;
-}
+
